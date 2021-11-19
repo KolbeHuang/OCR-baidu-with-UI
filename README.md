@@ -36,3 +36,9 @@ baidu-aip          2.2.18.0 <br>
 pytesseract        0.3.8 <br>
 python             3.9.6 <br>
 tkinter            8.6
+
+## Upcoming update / 后续更新
+The Java version of OCR with baidu SDK is still in development and corresponding Android Studio environment could be updated.
+Java版本的百度OCR正在开发当中，相应的Android studio配置也会更新（使OCR也可以在手机上运行）。
+
+## UI demo
