@@ -42,4 +42,4 @@ The Java version of OCR with baidu SDK is still in development and corresponding
 Java版本的百度OCR正在开发当中，相应的Android studio配置也会更新（使OCR也可以在手机上运行）。
 
 ## UI demo
-![image](https://github.com/KolbeHuang/OCR-baidu-with-UI/edit/main/OCR demo.gif)
+![image](https://github.com/KolbeHuang/OCR-baidu-with-UI/edit/main/OCR-demo.gif)
